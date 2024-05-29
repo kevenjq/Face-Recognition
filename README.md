@@ -1,6 +1,6 @@
 # Face-Recognition-using-KivyMD
 
-# So what to do once you have my.... Our code:)
+## So what to do once you have my.... Our code:)
 
 ## First thing is to fix the database which is needed.
 
@@ -32,6 +32,18 @@ Step 5:
   <<<<<<<< Don't forget change for both 715 and 755, 715 is for login class and 755 is for signup class >>>>>>>>
 
 ## Okay now your done with the database stuff!
+# Pip installations
+Download the libraries:
+  Kivy
+  Kivy-Garden
+  Kivymd
+  Kivy Auth
+  Kivy-garden.xcamera
+  removebg
+  face-recognition-models
+  face-recognition
+  opencv-python
+  mysql-connector-python
 
-
+will update the rest soon :)))))
   
